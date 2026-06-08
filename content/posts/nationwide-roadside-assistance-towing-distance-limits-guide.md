@@ -1,6 +1,6 @@
 ---
 title: "Nationwide Roadside Assistance Towing Distance Limits: What You Need to Know: Explained"
-date: 2026-06-07
+date: 2026-06-08
 description: "Find out exactly how far your roadside assistance will tow your car. Distance limits vary by provider from 5 to 100 miles."
 tags: ["roadside assistance", "towing distance", "insurance coverage", "breakdown help", "towing limits"]
 slug: "nationwide-roadside-assistance-towing-distance-limits-guide"
