@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost Seattle Mountain Pass Breakdown: What You'll Pay Right Now: Roadside Tips"
-date: 2026-06-11
+date: 2026-06-12
 description: "Broke down on a Seattle mountain pass? Get real towing costs, what to expect, and how to handle your breakdown safely in mountain conditions."
 tags: ["towing cost", "seattle towing", "mountain pass breakdown", "washington state", "emergency towing"]
 slug: "towing-cost-seattle-mountain-pass-breakdown-advice"
