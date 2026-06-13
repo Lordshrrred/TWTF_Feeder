@@ -1,6 +1,6 @@
 ---
 title: "Allstate Covers Towing But Car Totaled: Who Pays for What?: What To Do Next"
-date: 2026-05-16
+date: 2026-06-13
 description: "When Allstate totals your car after towing, find out who pays towing costs and how total loss settlements work with your coverage."
 tags: ["allstate insurance", "total loss", "towing coverage", "car insurance claims", "totaled vehicle"]
 slug: "allstate-covers-towing-but-car-totaled-who-pays-tips"
