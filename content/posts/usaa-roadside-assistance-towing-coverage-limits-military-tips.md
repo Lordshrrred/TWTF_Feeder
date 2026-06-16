@@ -1,6 +1,6 @@
 ---
 title: "USAA Roadside Assistance Towing Coverage Limits for Military Members: What To Do Next"
-date: 2026-06-15
+date: 2026-06-16
 description: "USAA roadside assistance towing coverage limits for military families. Distance limits, reimbursement amounts, and what's covered when you break down."
 tags: ["usaa", "roadside-assistance", "towing-coverage", "military", "insurance"]
 slug: "usaa-roadside-assistance-towing-coverage-limits-military-tips"
