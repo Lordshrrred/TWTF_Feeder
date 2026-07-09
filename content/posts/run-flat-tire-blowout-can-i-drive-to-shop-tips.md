@@ -1,6 +1,6 @@
 ---
 title: "Run Flat Tire Blowout: Can I Drive to the Shop?: Quick Guide"
-date: 2026-07-08
+date: 2026-07-09
 description: "Run flat tire had a blowout? Here's exactly how far you can drive, when you must stop, and what it costs if you need a tow."
 tags: ["run flat tire", "tire blowout", "roadside emergency", "towing", "tire safety"]
 slug: "run-flat-tire-blowout-can-i-drive-to-shop-tips"
