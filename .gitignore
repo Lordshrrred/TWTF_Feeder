@@ -7,3 +7,8 @@ __pycache__/
 *.pyo
 .DS_Store
 Thumbs.db
+
+# Secrets: .env files are symlinks to iCloud Dev Secrets and must never be committed
+.env*
+!.env.example
+!.env*.example
