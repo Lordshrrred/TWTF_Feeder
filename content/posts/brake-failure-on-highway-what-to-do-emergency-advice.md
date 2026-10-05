@@ -1,6 +1,6 @@
 ---
 title: "Brake Failure on Highway: What to Do in an Emergency: Explained"
-date: 2026-10-04
+date: 2026-10-05
 description: "Brakes failed on the highway? Here's exactly what to do in the next 60 seconds to slow down and get off the road safely."
 tags: ["brake failure", "highway emergency", "roadside safety", "car breakdown", "what to do"]
 slug: "brake-failure-on-highway-what-to-do-emergency-advice"
